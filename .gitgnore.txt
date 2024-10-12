@@ -1,0 +1,3 @@
+# Ignore pyrhon-version
+.python-version/
+
